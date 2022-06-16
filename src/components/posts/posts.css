@@ -1,0 +1,7 @@
+.posts {
+  flex: 9;
+  /* 12개중 post를 9개로 분할 */
+  display: flex;
+  flex-wrap: wrap;
+  margin: 20px;
+}
